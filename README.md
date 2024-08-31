@@ -80,7 +80,7 @@ Examples:
 python PerSIM.py
 
 # Run for 100 turns using a specific model
-python PerSIM.py --model gpt-3.5-turbo --turns 100
+python PerSIM.py --model hermes3 --turns 100
 
 # Run in zero interaction mode for 1000 turns
 python PerSIM.py --zeroint --turns 1000
