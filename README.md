@@ -28,6 +28,7 @@ PerSIM is an economic simulation project that models the behavior of a Sim in a 
 - perSIM sleep logic is curly, and needs simplifying back to core item advertising method
 - perSIM can't get stuck due to some competing run condtions (not as often, play with weights)
 - Needs long term memory pipeline
+- [noted] I forgot to update ticker at each pos instead of each item pos. Now moves more dynamically.
 
 ---
 
