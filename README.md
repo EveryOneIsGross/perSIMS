@@ -21,6 +21,8 @@ PerSIM is an economic simulation project that models the behavior of a Sim in a 
 - perSIM can't get stuck due to some competing run condtions (not as often, play with weights)
 - Needs long term memory pipeline
 
+---
+
 ## Files
 
 - `config.yaml`: Configuration file for system and user prompts
@@ -76,11 +78,12 @@ python PerSIM.py --model gpt-3.5-turbo --turns 100
 python PerSIM.py --zeroint --turns 1000
 ```
 
-### Generating Visualizations
+---
 
 ![image](https://github.com/user-attachments/assets/34ec8f40-1d6f-4279-a1d3-de54252be15b)
 ![image](https://github.com/user-attachments/assets/f6b29ba0-b770-435d-8f27-034f1e8c60c9)
 
+### Generating Visualizations
 
 After running the simulation, you can generate visualizations using:
 
