@@ -75,6 +75,8 @@ python PerSIM.py --zeroint --turns 1000
 
 ### Generating Visualizations
 
+![image](https://github.com/user-attachments/assets/a4d19fbc-bcc7-426a-be09-82b81808f69e)
+
 After running the simulation, you can generate visualizations using:
 
 ```
