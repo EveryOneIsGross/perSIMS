@@ -11,6 +11,8 @@ PerSIM is an economic simulation project that models the behavior of a Sim in a 
 - Implements a simple economic system with money and market dynamics
 - Provides visualization tools for analyzing simulation data
 
+![image](https://github.com/user-attachments/assets/5f63459d-08c5-46d6-9429-a7567398a9f1)
+
 ## WIP
 
 - Graphic Visualisers are scratch placeholders
@@ -94,14 +96,3 @@ This will create several PNG files in the current directory, including:
 ## Customization
 
 You can modify the `config.yaml` file to adjust the system and user prompts used in the simulation. This allows you to fine-tune the behavior and responses of the Sim.
-
-## Contributing
-
-Contributions to PerSIM are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-This README provides an overview of the project, its features, and instructions for running the simulation and generating visualizations using the command line. It also includes information about customization and contribution guidelines.
