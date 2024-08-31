@@ -1,6 +1,6 @@
 # perSIMS
 
-![image](https://github.com/user-attachments/assets/7316d346-de55-45f1-ae4b-9483f0255f60)
+![image](https://github.com/user-attachments/assets/e19e5656-d190-4217-be7d-75ccecb65647)
 
 PerSIM is an economic simulation project that models the behavior of a Sim in a virtual environment. The simulation takes into account various needs, economic constraints, and environmental factors to create a dynamic and interactive experience.
 
@@ -79,6 +79,7 @@ python PerSIM.py --zeroint --turns 1000
 
 ![image](https://github.com/user-attachments/assets/ba550690-621d-4ed4-b062-82ff6201cec6)
 ![image](https://github.com/user-attachments/assets/a4d19fbc-bcc7-426a-be09-82b81808f69e)
+![image](https://github.com/user-attachments/assets/48d4b2e7-4701-440c-a26c-fb41b6d8b9f6)
 
 After running the simulation, you can generate visualizations using:
 
