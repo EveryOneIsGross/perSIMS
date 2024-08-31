@@ -8,7 +8,7 @@
 - **Short-term plan:** My immediate plan is to fully immerse myself in the therapeutic pleasure of a good shower, allowing the water to cleanse not just my body, but also my mind, even if it's only temporary respite from the world outside these walls.
 - **Long-term considerations:** As I allow myself this moment of solace, my thoughts veer toward the future – will today find me more resilient? More focused? Or will the patterns of my life continue their predictable dance to nowhere new?
 
->The Sim takes a deep breath before stepping under the warm, steady stream of water cascading from above. There's a sense of contentment as it allows itself this brief >reprieve - an acknowledgment that even in monotony, there can often be moments of solace waiting... if one knows where to look and how to appreciate them fully.
+>The Sim takes a deep breath before stepping under the warm, steady stream of water cascading from above. There's a sense of contentment as it allows itself this brief reprieve - an acknowledgment that even in monotony, there can often be moments of solace waiting... if one knows where to look and how to appreciate them fully. - sum perSIM
 
 
 PerSIM is an economic simulation project that models the behavior of a Sim in a virtual environment. The simulation takes into account various needs, economic constraints, and environmental factors to create a dynamic and interactive experience.
