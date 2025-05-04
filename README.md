@@ -71,7 +71,7 @@ Options:
 - `--model MODEL`: Specify the LLM model to use (default: "hermes3")
 - `--responses N`: Generate N responses (default: continuous)
 - `--config FILE`: Path to the configuration YAML file (default: "config.yaml")
-- `--zeroint`: Run in zero interaction mode (disable LLM calls)
+- `--zeroint`: Run in zero intelligence mode (disable LLM calls)
 - `--turns N`: Number of turns to run for
 
 Examples:
